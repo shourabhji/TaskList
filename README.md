@@ -16,7 +16,7 @@ This is a simple Task List app built using Vite, TypeScript, and Tailwind CSS. I
 
 You can try the live demo of the Vite Todo app by visiting the following link:
 
-[Live Demo](https://vite-todo-app-demo.vercel.app/)
+[Live Demo](https://tasklist-sp.netlify.app/)
 
 ## Installation
 
@@ -29,13 +29,13 @@ To run this app locally on your machine, follow these steps:
 
 
 3. Install the project dependencies:
- ```bash
-npm install
+    ```bash
+   npm install
 
 Start the development server:
 
- ```bash
-npm run dev
+    ```bash
+      npm run dev
 
 The app will be running at http://localhost:3000.
 
